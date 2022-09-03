@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ember>
+  <ember>
+    <nev>Mócz Zoltán</nev>
+    <szulDatum>1969-11-29T00:00:00</szulDatum>
+    <nem>true</nem>
+  </ember>
+  <ember>
+    <nev>Borgóy Krisztina</nev>
+    <szulDatum>1969-02-03T00:00:00</szulDatum>
+    <nem>false</nem>
+  </ember>
+  <ember>
+    <nev>Mócz Enikő</nev>
+    <szulDatum>1975-10-18T00:00:00</szulDatum>
+    <nem>false</nem>
+  </ember>
+</ember>
